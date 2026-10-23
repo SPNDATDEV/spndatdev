@@ -49,8 +49,9 @@ We build **full-stack applications and bring digital products from idea to deplo
 
  **GitHub:** @SPNDATDEV(https://github.com/spndatdev)
  **X:** @Poweredbyspndat
+ **Instagram** @Poweredbyspndat
 
 
 ---
 
-### ⚔️ Want to build with us ? Send us a message : Devsec@gmail.com
+### ⚔️ Want to build with us ? Send us a message : Devsec@spndat.com
